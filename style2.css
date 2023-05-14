@@ -1,0 +1,87 @@
+.search-container{
+	box-sizing: border-box;
+	margin-left:25%;
+}
+.search-container>input{
+	height: 30px;
+	width: 700px;
+}
+.search-container>button{
+	height: 30px;
+	width: 70px;
+}
+.login{
+	box-sizing: border-box;
+	margin-top:-1.6%;
+	margin-left: 2%;
+	box-shadow: aquamarine;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 50px;
+	background-color: #2c3e50;
+	color: #fff;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+}
+
+nav li {
+	margin-left: 40px;
+}
+
+nav a {
+	color: #fff;
+}
+.emotion-card>img{
+	width: 250px;
+	height: 250px;
+	margin-left: 2%;
+}
+.heading{
+	font-size:42px;
+	margin-left: 1%;
+}
+div>h2{
+	font-size: 30px;
+	margin-left: 1.5%;
+}
+.face{
+	height:100px;
+	width: 100px;
+	margin-left: 50%;
+}
+.logobottom{
+	height: 30px;
+	width:30px;
+	margin-bottom: 3%;
+}
+.emotion-card>ul li>a{
+	color:maroon;
+	font-size:20px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.devitionl>img{
+	margin-left: -1%;
+	width: 250px;
+	height: 250px;
+}
+.devitionl>ul li{
+	margin-left: -3%;
+}
